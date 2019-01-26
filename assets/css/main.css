@@ -1,0 +1,46 @@
+h1,
+h3 {
+  opacity: 0.7;
+  background-color: black;
+  font-family: "Open Sans", sans-serif;
+  width: 61%;
+}
+
+.jumbotron {
+  background: url(../img/maxresdefault.jpg);
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: -webkit-center;
+  background-size: 75%;
+  color: white;
+  background-color: rgb(0, 0, 0);
+  box-shadow: 5px 5px #000000;
+}
+
+.text-center .text-white {
+  font-size: 100px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  background-color: blanchedalmond;
+}
+
+.panel-primary {
+  opacity: 0.8;
+  background-color: whitesmoke;
+  border-radius: 12px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+body {
+  background: url(../img/trainstation1.jpg);
+  background-size: cover;
+}
